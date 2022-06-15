@@ -1,2 +1,2 @@
 # Student Result Management System
-This project help to techer and student 
+This project help to teacher and student 
